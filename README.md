@@ -34,5 +34,9 @@ THEN the saved events persist
 This weeks challenge became the most difficult as I'm not familiarized with JavaScript yet. I received a ton of help from my tutor but will go over my resources and past course work to prepare for future assignments.
 
 ## Deployed URL
+https://raquel-t.github.io/Dailylife-Planner/
 
 ## ScreenShots 
+![Alt text](assets/images/Screenshot%202023-05-18%20week5%20assignment.jpg)
+
+![Alt text](assets/images/Screenshot%202023-05-18%20week5%20assignment2.jpg)
