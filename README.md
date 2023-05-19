@@ -31,6 +31,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 ## Challenges
+This weeks challenge became the most difficult as I'm not familiarized with JavaScript yet. I received a ton of help from my tutor but will go over my resources and past course work to prepare for future assignments.
 
 ## Deployed URL
 
